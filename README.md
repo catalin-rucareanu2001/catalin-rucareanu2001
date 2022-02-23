@@ -6,7 +6,7 @@
 - linkedin: https://www.linkedin.com/in/catalin-stefan-rucareanu-194562146/
 
 
-- I have Private repositories that include the following projects:
+- I have Public and Private repositories that include the following projects:
 - C++: Risk assessment in oncological disease by determining the surface of malignant tumors-> OOP concepts+Image processing
 - C++: Santa's Helper-> OOP concepts
 - C++: Flight Application-> OOP concepts
