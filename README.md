@@ -16,8 +16,13 @@
 - C++: Modelling of a dice roll
 - C++: Modelling of infection spread in a population
 - Java: Image processing-> Grayscale image using OOP concepts, threads, and image processing
+- Java, JavaFX: Image Processing – Grayscale Image with an interface -> simplified the previous project and made an interface in javaFX
+- C#, JSON, XML: Data extraction and manipulation app
+- C#, SQL, Python, MATLAB, Unity medical application -> app to help students from the medical field learn, it is my BSc project, received the maximum grade for it,
+   Implemented areas for students and medics; learning information in a visual method: text area and image area, testing information learned in: quizzes with 1 correct answer with 4 options and a muscle identifying section, testing of visual and auditive acuity through different tests (20/20 vision test, color blindness test, hearing test for sounds with different frequencies, absolute pitch test)
+- C#, Unity games -> as seen on https://rucareanu-catalin-stefan.itch.io/ -> (card battle, text adventure, mobile snake, multiple platformers, top-down adventure, Creative Game Jam by EA “It’s not supposed to work that way” )
 
-To access any of the previously mentioned repositories, please contact me on email or Linkedin
+To access any of the previously mentioned repositories, please contact me by email or Linkedin
 
 <!---
 catalin-rucareanu2001/catalin-rucareanu2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
