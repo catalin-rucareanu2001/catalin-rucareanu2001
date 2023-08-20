@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @catalin-rucareanu2001
+- 👋 Hi, I’m @catalin-rucareanu2001, full name Rucareanu Catalin-Stefan
 - 👀 I’m interested in Game Development, Image Processing, modeling of physics systems, and programming in general
-- 🌱 I’m currently learning Computer Science, Automatics Control
+- 🌱 I have graduated with my BSc in Computer Science, Automatics Control of Polytechnic University of Bucharest
+- I have started my MSc degree in Graphics, Multimedia, and Virtual Reality
 - 💞️ I’m looking to collaborate on Many Projects
-- 📫 How to reach me email: rucareanu2001@yahoo.com 
-- linkedin: https://www.linkedin.com/in/catalin-stefan-rucareanu-194562146/
+- 📫 How to reach me, email: rucareanu2001@yahoo.com 
+- linkedin: [https://www.linkedin.com/in/catalin-stefan-rucareanu/](https://www.linkedin.com/in/catalin-stefan-rucareanu/)
 
 
 - I have Public and Private repositories that include the following projects:
